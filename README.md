@@ -1,4 +1,4 @@
-# bae.finance | A new kind of BAE.
+# Bae.finance | A new kind of BAE.
 
 Just like our Bae, $BAE is indivisible.
 
